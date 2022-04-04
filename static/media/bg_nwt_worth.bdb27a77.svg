@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1100px" height="200px" viewBox="0 0 1100 200" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg_nwt worth</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1100" height="200" rx="16"></rect>
+        <linearGradient x1="50%" y1="49.1226967%" x2="60.9841612%" y2="50.6153693%" id="linearGradient-3">
+            <stop stop-color="#D4E4FB" offset="0%"></stop>
+            <stop stop-color="#729FF5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="89.0739448%" y1="49.321567%" x2="68.9951397%" y2="50.1407704%" id="linearGradient-4">
+            <stop stop-color="#729FF5" offset="0%"></stop>
+            <stop stop-color="#D4E4FB" offset="99.8838936%"></stop>
+            <stop stop-color="#D4E4FB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="3-19" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Portfolio" transform="translate(-170.000000, -152.000000)">
+            <g id="circle" transform="translate(170.000000, 152.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="mask-t" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <path d="M-91,148.816681 C88.9840811,123.418741 265.751478,128.608224 439.302191,164.385129 C554.772931,186.416048 736.340447,200.033463 984.00474,205.237375 L1206,225.914773 L-91,225.914773 L-91,148.816681 Z" id="path-10" fill="#F0F5FF" mask="url(#mask-2)"></path>
+                <path d="M1115.09506,100.071797 C910.627363,165.649778 730.839572,193.595282 575.731686,183.908309 C478.748799,179.312368 188.542608,166.326667 -77.7038124,258.071797 C57.506346,258.071797 455.10597,258.071797 1115.09506,258.071797" id="path-9backup" fill="url(#linearGradient-3)" opacity="0.100000001" mask="url(#mask-2)" transform="translate(518.695623, 179.071797) rotate(-5.000000) translate(-518.695623, -179.071797) "></path>
+                <path d="M1101.79887,100 C897.331175,165.577981 717.543384,193.523485 562.435498,183.836512 C465.452611,179.240571 175.246421,166.254869 -91,258 C44.2101584,258 441.809782,258 1101.79887,258" id="path-9" fill="url(#linearGradient-4)" opacity="0.400000006" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
