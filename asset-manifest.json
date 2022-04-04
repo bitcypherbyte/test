@@ -1,12 +1,23 @@
 {
   "files": {
+    "static/css/0.eefe002c.chunk.css": "./static/css/0.eefe002c.chunk.css",
+    "static/js/0.71e6aa71.chunk.js": "./static/js/0.71e6aa71.chunk.js",
     "main.css": "./static/css/main.365730dd.chunk.css",
-    "main.js": "./static/js/main.7468f0ba.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.22ee2823.js",
-    "static/css/2.0ee42933.chunk.css": "./static/css/2.0ee42933.chunk.css",
-    "static/js/2.b0c9ec09.chunk.js": "./static/js/2.b0c9ec09.chunk.js",
+    "main.js": "./static/js/main.b02d4ad7.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.c04a15b7.js",
+    "static/css/3.9dc4d1c0.chunk.css": "./static/css/3.9dc4d1c0.chunk.css",
+    "static/js/3.c2c84f83.chunk.js": "./static/js/3.c2c84f83.chunk.js",
+    "static/css/4.f21df9a8.chunk.css": "./static/css/4.f21df9a8.chunk.css",
+    "static/js/4.480215dd.chunk.js": "./static/js/4.480215dd.chunk.js",
+    "static/js/5.880ad196.chunk.js": "./static/js/5.880ad196.chunk.js",
+    "static/js/6.3485b80f.chunk.js": "./static/js/6.3485b80f.chunk.js",
+    "static/js/7.d4a0b040.chunk.js": "./static/js/7.d4a0b040.chunk.js",
+    "static/js/8.3e4a1e44.chunk.js": "./static/js/8.3e4a1e44.chunk.js",
+    "static/js/9.e66fd28c.chunk.js": "./static/js/9.e66fd28c.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.b0c9ec09.chunk.js.LICENSE.txt": "./static/js/2.b0c9ec09.chunk.js.LICENSE.txt",
+    "static/js/3.c2c84f83.chunk.js.LICENSE.txt": "./static/js/3.c2c84f83.chunk.js.LICENSE.txt",
+    "static/js/4.480215dd.chunk.js.LICENSE.txt": "./static/js/4.480215dd.chunk.js.LICENSE.txt",
+    "static/js/5.880ad196.chunk.js.LICENSE.txt": "./static/js/5.880ad196.chunk.js.LICENSE.txt",
     "static/media/font.css": "./static/media/Audiowide-Regular.d9088cb6.ttf",
     "static/media/background.27e3d2cd.svg": "./static/media/background.27e3d2cd.svg",
     "static/media/balance-icon.ccbd1555.svg": "./static/media/balance-icon.ccbd1555.svg",
@@ -32,10 +43,10 @@
     "static/media/wrong-network.9b47a8bb.svg": "./static/media/wrong-network.9b47a8bb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.22ee2823.js",
-    "static/css/2.0ee42933.chunk.css",
-    "static/js/2.b0c9ec09.chunk.js",
+    "static/js/runtime-main.c04a15b7.js",
+    "static/css/3.9dc4d1c0.chunk.css",
+    "static/js/3.c2c84f83.chunk.js",
     "static/css/main.365730dd.chunk.css",
-    "static/js/main.7468f0ba.chunk.js"
+    "static/js/main.b02d4ad7.chunk.js"
   ]
 }
